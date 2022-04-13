@@ -10,3 +10,6 @@ A simple password Generator, using TypeScript instead of Javascript.
 + 1-Click copy pass to clipboard
 + Bonus: Maybe a dark and light mode
 
+##Licensing:
+MIT Licensed.
+Use at your own risk
